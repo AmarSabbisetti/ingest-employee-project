@@ -1,0 +1,6 @@
+employee_id,employee_name,project_id,project_name,project_location
+101,Alice,10,Apollo,Bengaluru
+102,Bob,10,Apollo,Bengaluru
+103,Charlie,11,Borealis,Hyderabad
+104,Divya,12,Cosmos,Pune
+105,Esha,12,Cosmos,Pune
